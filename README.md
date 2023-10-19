@@ -1,4 +1,4 @@
-# 火柴人大冒險 - 開發中遊戲介紹
+# Stickman Adventure - 開發中遊戲介紹
 ======
 ## 概要:
 * stickman adventure是一款2D橫向手機遊戲。
